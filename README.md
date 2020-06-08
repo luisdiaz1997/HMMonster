@@ -1,3 +1,3 @@
 # HMMonster
 
-Workshop for HMM done at [Gladstone Institutes](https://gladstone.org/)
+Workshop to teach HMMs for bioinformatic researchers at [Gladstone Institutes](https://gladstone.org/)
